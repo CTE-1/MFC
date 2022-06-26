@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\Users\tinge\source\repos\Dialog-Based Calculator\Dialog-Based Calculator\</FILEPATH>
+      <FILENAME>Dialog-Based Calculator.cpp</FILENAME>
+      <LINE>41</LINE>
+      <COLUMN>32</COLUMN>
+    </SFA>
+    <DEFECTCODE>6262</DEFECTCODE>
+    <DESCRIPTION>函式使用 '55484' 個位元組的堆疊: 超過 /analyze:stacksize '32768'。 考慮將部分資料移至堆積。</DESCRIPTION>
+    <FUNCTION>CDialogBasedCalculatorApp::InitInstance</FUNCTION>
+    <DECORATED>?InitInstance@CDialogBasedCalculatorApp@@UAEHXZ</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
